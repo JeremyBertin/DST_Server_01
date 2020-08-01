@@ -1,0 +1,30 @@
+return {
+  ["workshop-2074508776"]={
+    configuration_options={ handmake=20, onlyclose=false, range=2.3 },
+    enabled=true 
+  },
+  ["workshop-375859599"]={
+    configuration_options={
+      divider=0,
+      random_health_value=0,
+      random_range=0,
+      send_unknwon_prefabs=false,
+      show_type=0,
+      unknwon_prefabs=1,
+      use_blacklist=true 
+    },
+    enabled=true 
+  },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=false,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  } 
+}
