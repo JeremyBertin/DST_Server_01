@@ -12,7 +12,7 @@ KLEI     1 return {
         max_players=6,
         name="Friends Forever Server",
         online_mode=true,
-        password="angisgay",
+        password="1921",
         privacy_type=0,
         pvp=false,
         server_language="en",
